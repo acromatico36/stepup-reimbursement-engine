@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "description": "Xfinity internet bill index for SUFS FTCPEP reimbursement",
+    "kids": {
+      "matteo": {"name": "Matteo Campilii", "sufs_id": "20654016"},
+      "lorenzo": {"name": "Lorenzo Campilii", "sufs_id": "20654018"}
+    },
+    "split": "50/50 per child",
+    "bill_directory": "~/Downloads/Xfinity-2025-Bills/"
+  },
+  "bills": [
+    {
+      "month": "2025-01",
+      "label": "January 2025",
+      "total_amount": 120.46,
+      "split_matteo": 60.23,
+      "split_lorenzo": 60.23,
+      "pdf_filename": "Xfinity-Jan2025.pdf",
+      "skip": false,
+      "skip_reason": null,
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    },
+    {
+      "month": "2025-02",
+      "label": "February 2025",
+      "total_amount": 185.69,
+      "split_matteo": 92.85,
+      "split_lorenzo": 92.84,
+      "pdf_filename": "Xfinity-Feb2025.pdf",
+      "skip": false,
+      "skip_reason": null,
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    },
+    {
+      "month": "2025-03",
+      "label": "March 2025",
+      "total_amount": 55.23,
+      "split_matteo": 27.62,
+      "split_lorenzo": 27.61,
+      "pdf_filename": "Xfinity-Mar2025.pdf",
+      "skip": false,
+      "skip_reason": null,
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    },
+    {
+      "month": "2025-04",
+      "label": "April 2025",
+      "total_amount": 120.46,
+      "split_matteo": 60.23,
+      "split_lorenzo": 60.23,
+      "pdf_filename": "Xfinity-Apr2025.pdf",
+      "skip": false,
+      "skip_reason": null,
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    },
+    {
+      "month": "2025-05",
+      "label": "May 2025",
+      "total_amount": 148.78,
+      "split_matteo": 74.39,
+      "split_lorenzo": 74.39,
+      "pdf_filename": "Xfinity-May2025.pdf",
+      "skip": false,
+      "skip_reason": null,
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    },
+    {
+      "month": "2025-06",
+      "label": "June 2025",
+      "total_amount": 175.15,
+      "split_matteo": 87.58,
+      "split_lorenzo": 87.57,
+      "pdf_filename": "Xfinity-Jun2025.pdf",
+      "skip": false,
+      "skip_reason": null,
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    },
+    {
+      "month": "2025-07",
+      "label": "July 2025",
+      "total_amount": 181.94,
+      "split_matteo": 90.97,
+      "split_lorenzo": 90.97,
+      "pdf_filename": "Xfinity-Jul2025.pdf",
+      "skip": false,
+      "skip_reason": null,
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    },
+    {
+      "month": "2025-08",
+      "label": "August 2025",
+      "total_amount": 164.00,
+      "split_matteo": 82.00,
+      "split_lorenzo": 82.00,
+      "pdf_filename": "Xfinity-Aug2025.pdf",
+      "skip": false,
+      "skip_reason": null,
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    },
+    {
+      "month": "2025-09",
+      "label": "September 2025",
+      "total_amount": 164.00,
+      "split_matteo": 82.00,
+      "split_lorenzo": 82.00,
+      "pdf_filename": "Xfinity-Sep2025.pdf",
+      "skip": false,
+      "skip_reason": null,
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    },
+    {
+      "month": "2025-10",
+      "label": "October 2025",
+      "total_amount": 164.00,
+      "split_matteo": 82.00,
+      "split_lorenzo": 82.00,
+      "pdf_filename": "Xfinity-Oct2025.pdf",
+      "skip": false,
+      "skip_reason": null,
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    },
+    {
+      "month": "2025-11",
+      "label": "November 2025",
+      "total_amount": -28.07,
+      "split_matteo": 0.00,
+      "split_lorenzo": 0.00,
+      "pdf_filename": "Xfinity-Nov2025.pdf",
+      "skip": true,
+      "skip_reason": "Credit month — negative balance, not a reimbursable charge",
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    },
+    {
+      "month": "2025-12",
+      "label": "December 2025",
+      "total_amount": 161.98,
+      "split_matteo": 80.99,
+      "split_lorenzo": 80.99,
+      "pdf_filename": "Xfinity-Dec2025.pdf",
+      "skip": false,
+      "skip_reason": null,
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    },
+    {
+      "month": "2026-01",
+      "label": "January 2026",
+      "total_amount": 51.05,
+      "split_matteo": 25.53,
+      "split_lorenzo": 25.52,
+      "pdf_filename": "Xfinity-Jan2026.pdf",
+      "skip": false,
+      "skip_reason": null,
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    },
+    {
+      "month": "2026-02",
+      "label": "February 2026",
+      "total_amount": 51.05,
+      "split_matteo": 25.53,
+      "split_lorenzo": 25.52,
+      "pdf_filename": "Xfinity-Feb2026.pdf",
+      "skip": false,
+      "skip_reason": null,
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    },
+    {
+      "month": "2026-03",
+      "label": "March 2026",
+      "total_amount": 51.05,
+      "split_matteo": 25.53,
+      "split_lorenzo": 25.52,
+      "pdf_filename": "Xfinity-Mar2026.pdf",
+      "skip": false,
+      "skip_reason": null,
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    },
+    {
+      "month": "2026-04",
+      "label": "April 2026",
+      "total_amount": 51.05,
+      "split_matteo": 25.53,
+      "split_lorenzo": 25.52,
+      "pdf_filename": "Xfinity-Apr2026.pdf",
+      "skip": false,
+      "skip_reason": null,
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    },
+    {
+      "month": "2026-05",
+      "label": "May 2026",
+      "total_amount": 51.05,
+      "split_matteo": 25.53,
+      "split_lorenzo": 25.52,
+      "pdf_filename": "Xfinity-May2026.pdf",
+      "skip": false,
+      "skip_reason": null,
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    },
+    {
+      "month": "2026-06",
+      "label": "June 2026",
+      "total_amount": 51.05,
+      "split_matteo": 25.53,
+      "split_lorenzo": 25.52,
+      "pdf_filename": "Xfinity-Jun2026.pdf",
+      "skip": false,
+      "skip_reason": null,
+      "submitted_matteo": false,
+      "submitted_lorenzo": false
+    }
+  ]
+}
